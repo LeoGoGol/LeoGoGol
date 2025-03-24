@@ -1,4 +1,4 @@
-I’m Leo
+I’m Leo.
 if it can compile i will attempt to write in it
 <!---
 LeoGoGol/LeoGoGol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
